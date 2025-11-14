@@ -1,2 +1,3 @@
+![logo](src/logo.png)
+
 # EchoHost
-![w](srclogo.png)
