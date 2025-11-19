@@ -1,4 +1,4 @@
-![logo](src/sml-logo.png)
+![logo](src/wide-logo.png)
 
 # EchoHost
 
