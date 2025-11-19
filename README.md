@@ -1,6 +1,7 @@
-![logo](src/wide-logo.png)
+![placeholder](src/wide-logo.png)
 
 # EchoHost
+Take control of your server ecosystem with EchoHost Software designed for seamless, headless management.
 
 > [!NOTE]
-> This does not works in browser for quests which require you to play a game! Use the [desktop app](https://discord.com/download) to complete those.
+> Headless control lets you operate your server remotely, without needing a direct display or input device. Manage everything from another device.
